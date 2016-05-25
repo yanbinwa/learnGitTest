@@ -1,0 +1,2 @@
+childFile1
+This is a test for childFile1
